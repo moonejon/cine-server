@@ -1,2 +1,2 @@
-# cine-server
+# Ciné Server
 Ciné Server
